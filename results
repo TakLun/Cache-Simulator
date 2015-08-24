@@ -1,0 +1,56 @@
+gcc:
+
+76 85 95 97 
+97 97 98 98 
+98 
+97 
+93 94 94 95 
+97 97 97 97 
+
+Set Associ Correct: 9674414
+Set Associ Correct: 9733765
+Set Associ Correct: 9756542
+Set Associ Correct: 9764452
+New Replace Correct: 9674414
+New Replace Correct: 9670280
+New Replace Correct: 9663708
+New Replace Correct: 9652298
+
+
+mcf:
+
+89 91 91 91 
+91 91 91 91 
+91 
+91 
+65 65 65 65 
+91 91 91 91 
+
+Set Associ Correct: 9130375
+Set Associ Correct: 9130375
+Set Associ Correct: 9130375
+Set Associ Correct: 9130375
+New Replace Correct: 9130375
+New Replace Correct: 9130403
+New Replace Correct: 9130404
+New Replace Correct: 9130404
+
+
+astar:
+
+90 92 92 92 
+92 92 92 92 
+92 
+92 
+62 62 62 62 
+92 92 92 92 
+
+Set Associ Correct: 9246329
+Set Associ Correct: 9246333
+Set Associ Correct: 9246331
+Set Associ Correct: 9246331
+New Replace Correct: 9246329
+New Replace Correct: 9246333
+New Replace Correct: 9246333
+New Replace Correct: 9246332
+
